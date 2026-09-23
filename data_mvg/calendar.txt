@@ -1,0 +1,3 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SWD,1,1,1,1,1,0,0,20260914,20261212
+SWE,0,0,0,0,0,1,1,20260914,20261212
