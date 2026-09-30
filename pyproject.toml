@@ -11,6 +11,7 @@ dependencies = [
     "altair>=6.3.0",
     "graphviz>=0.21",
     "matplotlib>=3.11.2",
+    "nbformat>=5.11.1",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "scikit-learn>=1.9.1",
